@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import plotly.graph_objects as go
 
-BASE_URL = "http://127.0.0.1:8000"  # Tu backend local
+BASE_URL = "https://pp-vinculacion.onrender.com/"  # Tu backend local
 
 st.set_page_config(page_title="Plataforma de Vinculación TEVO", layout="wide")
 
